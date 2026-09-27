@@ -1,0 +1,6 @@
+{
+  "name": "WeGo Group Kenya",
+  "description": "WeGo Group (K) Limited provides quality Mabati, roofing tiles, Decra tiles, plumbing products and roofing accessories in Kenya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
